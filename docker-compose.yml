@@ -26,7 +26,7 @@ services:
     working_dir: /dapp
     environment:
       ETH_RPC_URL: http://geth_rpc:8545
-      ETH_GAS: 467899
+      ETH_GAS: 4678991
       ETH_GAS_PRICE: 10
   ganache-cli:
     image: tiabas/ganache-cli
