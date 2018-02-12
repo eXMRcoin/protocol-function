@@ -5,7 +5,7 @@ contract EXMR is StandardToken, Ownable {
   string public constant name = "EXMR";
   string public constant symbol = "EXMR";
   uint8 public constant decimals = 8;
-  uint256 public constant INITIAL_SUPPLY = 15 * 10**6 * 10**8;
+  uint256 public constant TOTAL_SUPPLY = 15 * 10**6 * 10**8;
 
   function EXMR() public {
     totalSupply = INITIAL_SUPPLY;
