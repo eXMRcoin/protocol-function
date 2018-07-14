@@ -22,7 +22,7 @@
 ⌘ Alpha Version this JuLy 2018<br>
 ⌘ Beta Version this August 2018<br>
 ⌘ Official Launch this September 2018<br>
-⌘ First dividends this September 2018 <br>
+⌘ First dividends December 2018 <br>
 # About Smart contract 
  <article class="markdown-body entry-content" itemprop="text"><h1><a href="#protocol-Function" aria-hidden="true" class="anchor" id="user-content-protocol-demo"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d=""></path></svg></a>Protocol-Function</h1>
 <p>This repository of smart contracts contains the EXMR Protocol to demonstrate Leverage on-chain using 0x and Relayers</p>
