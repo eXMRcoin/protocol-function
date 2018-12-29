@@ -29,7 +29,8 @@ Our repository is private for security..
 ✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
 ✦ Swap between those 1-5 coins & more testnet functions.<br>
 ⌘ Official Launch this December 2018<br>
-⌘ First bonus December 2018 <br>
+⌘ First bonus April 2019 <br>
+
 # About Smart contract 
  <article class="markdown-body entry-content" itemprop="text"><h1><a href="#protocol-Function" aria-hidden="true" class="anchor" id="user-content-protocol-demo"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d=""></path></svg></a>Protocol-Function</h1>
 <p>This repository of smart contracts contains the EXMR Protocol to demonstrate Leverage on-chain using 0x and Relayers</p>
