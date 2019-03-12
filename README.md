@@ -35,7 +35,7 @@ Our Project: please visit <a href="https://getcryptopayments.org">GetCryptoPayme
 ✦ Payment Gateway<br>
 ✦ Vault Wallet<br> 
 ✦ Voting system<br>
-✦ Point of Sales (POS)<br>
+✦ Point of Sales (POS)<br> 
 ✦ Airdrop Sevices<br>
 ✦ ICO Sevices<br>
 ✦ Exchange Api<br>
