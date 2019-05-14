@@ -1,10 +1,10 @@
 ![Logo](https://github.com/eXMRcoin/Ethereum-Monero/blob/master/eXMR-master/logo1.png?raw=true)
 # EXMR 
 # Our repository is private for security.. 
-Our Project: please visit <a href="https://getcryptopayments.org">GetCryptoPayments.org®</a> <br>
+Our Project: please visit <a href="https://getcryptopayments.com">GetCryptoPayments.com®</a> <br>
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet, fiat services, swap coins,  and point of sales, will make EXMR increase its value.<br> 
 ➥A large number of stores and online businesses, will be able to receive payments in our EXMR and other cryptocurrencies.<br>
-➥GetCryptoPayments.org® by EXMR  Will support more than 150 Cryptocurrencies on your platform and will be added by our voting system.<br>
+➥GetCryptoPayments.com® by EXMR  Will support more than 150 Cryptocurrencies on your platform and will be added by our voting system.<br>
 ➥Offering plugins for all the popular webcarts used today: Prestashop; Oscommerce; Magento; woocommerce; WHMCS
 
 # ANDROID & iOS APP<br>
@@ -21,10 +21,10 @@ Our Project: please visit <a href="https://getcryptopayments.org">GetCryptoPayme
 # Milestone<br>
 ⌘ Alpha Version July 2018<br>
 ⌘ Beta Version September 2018<br>
-⌘ Official Launch this December 2018<br>
-⌘ New UI-UX March 2019<br>
+⌘ Official Launch this 2019<br>
+⌘ New UI-UX May 2019<br>
 
-🍀 Features:<br>
+🍀 Features: <br>
 ✦ Swap between coins or tokens<br>
 ✦ Store profiles<br>
 ✦ Voting system<br>
@@ -35,7 +35,7 @@ Our Project: please visit <a href="https://getcryptopayments.org">GetCryptoPayme
 ✦ Payment Gateway<br>
 ✦ Vault Wallet<br> 
 ✦ Voting system<br>
-✦ Point of Sales (POS)<br> 
+✦ Point of Sales (POS)<br>
 ✦ Airdrop Sevices<br>
 ✦ ICO Sevices<br>
 ✦ Exchange Api<br>
