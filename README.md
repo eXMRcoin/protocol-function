@@ -52,7 +52,7 @@ New exchanges and Dapp's coming this 2020!!<br>
 We have the repository in private for security. <br>
 You can visit here https://GetCryptoPayments.com® <br>
 
-# ABOUT GETCRYPTOPAYMENTS.COM
+# About getcryptopayments.com
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR FDN increase its value.<br> 
 ➥A large number of stores and online businesses, will be able to receive payments in our EXMR FDN and other cryptocurrencies.<br>
 ➥GetCryptoPayments.com® by EXMR FDN. Will support more than 130 to 2000 Cryptocurrencies on your platform and will be added by our voting system or payment fee.<br>
