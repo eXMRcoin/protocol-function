@@ -58,6 +58,7 @@ NAME: EXMR FND.<br>
 SYMBOL: EXMR <br>
 DECIMALS: 18 <br>
 CONTRACT ADDRESS: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
+Explorer: EXMR FND. code: https://etherscan.io/address/0x331fa6c97c64e47475164b9fc8143b533c5ef529#code
 <details>
     <summary>
         Show ABI here:
@@ -93,15 +94,4 @@ CONTRACT ADDRESS: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
     </p>
 </details>
 
-for i in 1..101 {
-    if i % 15 == 0 {
-        println!("FizzBuzz");
-    } else if i % 5 == 0 {
-        println!("Buzz");
-    } else if i % 3 == 0 {
-        println!("Fizz");
-    } else {
-        println!("{}", i);
-    }
-}
 
