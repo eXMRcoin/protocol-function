@@ -1,5 +1,6 @@
 ![Logo](https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/backclear.png?raw=true)
-# [center] EXMR FDN. (EXMR FOUNDATION)
+</center>
+# EXMR FDN. (EXMR FOUNDATION) </center>
 # Smart contract details<br>
 NAME: EXMR FND.<br>
 SYMBOL: EXMR <br>
