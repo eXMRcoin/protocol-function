@@ -44,11 +44,13 @@ Explorer: EXMR FND. code: https://etherscan.io/address/0x331fa6c97c64e47475164b9
 # About us: <br>
 We are motivating blockchain developers to integrate their Dapp's with EXMR FDN, and thus receive Bounty rewards, additionally you can start a custom Dapp's for EXMR FDN. and submit it to this repository of EXMR FOUNDATION, so that all developers can integrate into the work and thus all win rewards.
 
-# People can now start staking their EXMR FDN. <br> here: https://dapp.exmr.io
+# People can now start staking their EXMR FDN. <br> 
+here: https://dapp.exmr.io
 New exchanges and Dapp's coming this 2020!!
 
-About our current project, we have the repository in private for security.. 
-# You can visit here https://GetCryptoPayments.com®
+# About our current project
+<br> we have the repository in private for security. 
+ You can visit here https://GetCryptoPayments.com®
 
 # ABOUT GETCRYPTOPAYMENTS.COM
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR FDN increase its value.<br> 
