@@ -1,6 +1,6 @@
 ![Logo](https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/backclear.png?raw=true)
 # EXMR FDN. (EXMR FOUNDATION)
-# SMART CONTRACT DETAILS<br>
+# Smart contract details<br>
 NAME: EXMR FND.<br>
 SYMBOL: EXMR <br>
 DECIMALS: 18 <br>
@@ -41,7 +41,7 @@ Explorer: EXMR FND. code: https://etherscan.io/address/0x331fa6c97c64e47475164b9
     </p>
 </details><br>
 
-About us: 
+# About us: <br>
 We are motivating blockchain developers to integrate their Dapp's EXMR FDN, and thus receive Bounty rewards, additionally you can start a custom Dapp's for EXMR FDN. and submit it to this repository of EXMR FOUNDATION, so that all developers can integrate into the work and thus all win rewards.
 
 # People can now start staking their EXMR FDN. <br> here: https://dapp.exmr.io
