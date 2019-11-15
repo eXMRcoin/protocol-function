@@ -71,5 +71,14 @@ CONTRACT ADDRESS: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
     </p>
 </details>
 
+<details>
+    <summary>
+      Staking System
+    </summary>
+    <p>
+        We will be to holders who can add their own tokens inside in our Freeze to staking  (extend IERC20.sol)
+    </p>
+</details>
+
 
 
