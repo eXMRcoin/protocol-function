@@ -52,16 +52,14 @@ About our current project, we have the repository in private for security..
 ✦ ICO Sevices<br>
 ✦ Exchange Api<br>
 & More..
-# SMART CONTRACT DETAILS<br>
 
+# SMART CONTRACT DETAILS<br>
 NAME: EXMR FND.<br>
 SYMBOL: EXMR <br>
 DECIMALS: 18 <br>
 CONTRACT ADDRESS: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
-
 <details>
     <summary>
-        EXMR_FDN.sol <br>
         SHOW ABI HERE:
     </summary>
     <p>
@@ -76,6 +74,14 @@ CONTRACT ADDRESS: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
     </summary>
     <p>
         We will be to holders who can add their own tokens inside in our Freeze to staking  (extend IERC20.sol)
+    </p>
+</details>
+<details>
+    <summary>
+      Burn % Voting System
+    </summary>
+    <p>
+        We will be to holders who can add their own tokens inside in our Freeze to staking  (extend EXMR_FDN.sol)
     </p>
 </details>
 
