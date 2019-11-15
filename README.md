@@ -81,7 +81,15 @@ CONTRACT ADDRESS: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
       Burn % Voting System
     </summary>
     <p>
-        We will be to holders who can add their own tokens inside in our Freeze to staking  (extend EXMR_FDN.sol)
+        Now our community can vote to increase the percentage to burn our token for each transfer (into our EXMR_FDN.sol)
+    </p>
+</details>
+<details>
+    <summary>
+      Bounty System
+    </summary>
+    <p>
+        Now the developer community can earn EXMR FDN. by our Bounty program (into our EXMR_FDN.sol)
     </p>
 </details>
 
